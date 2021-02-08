@@ -1,0 +1,22 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr{
+  width: 5%;
+  border-color: #66BFBF;
+  border-width: 5px;
+  border-style: dotted none none none;
+}
+
+h1, h3{
+  color: #66BFBF;
+}
+
+p:hover ,table:hover, ul:hover{
+  color: #66BFBF;
+}
+
+h1:hover {
+  font-size: 50px;
+}
